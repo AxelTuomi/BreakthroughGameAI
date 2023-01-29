@@ -1,5 +1,7 @@
 # BreakthroughGameAI
 I want to create an extension to a previous breakthrough game project. I want to impliment more advanced AI that plans ahead multiple turns instead of just capturing when it can and moving randomly like in my old project. 
+## Game description
+Breakthrough is a two-player strategy board game. The game is played on a rectangular board divided into 8 x 8 squares, with each player starting on opposite sides of the board. The goal of the game is to advance one's own pieces across the board to the opponents side. Each player starts with 16 pieces, which can move one step up and diagonally left or right, they can only capture diagonally. The game is won by the player who reaches the other players side, or takes all the other players pieces, or gets into an immovable stalemate where the player with the most pieces left wins.
 ## Requirements 
 - Programming language: Python
 - Language language: English
