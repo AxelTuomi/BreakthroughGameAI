@@ -190,6 +190,16 @@ def board(cordinates_0, cordinates_X):
     print(board[56: 64])
     print("--------------------------------------")
 
+    #for h in board:
+        #print("this is")
+        #print(h)
+
+    for i432 in range (0, 64, 1):
+        print("this is ")
+        print(i432)
+        print("value: " )
+        print(board[i432])
+
 #Method that check's who wins if neither X or 0 can make moves, it goes by how many pieces they have left, if they have the same amount it's a stalemate
 def Stalemate(cordinates_0, cordinates_X):
     if len(cordinates_0) == len(cordinates_X):

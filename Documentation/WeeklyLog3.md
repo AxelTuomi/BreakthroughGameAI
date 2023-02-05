@@ -1,0 +1,1 @@
+I started thinking about how to structure the program using classes instead of the current method base form. I created the placeholder methods of the classes and I'm also thinking about redoing the currently convoluted cordinate system. 
